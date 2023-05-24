@@ -14,10 +14,11 @@ En los siguientes proyectos se ejemplifica los conocimientos y algunos de los tr
 
 ## ⛏ Lenguajes y Herramientas
 <div>
-  <img src="https://example.com/python-icon.png" alt="Python" width="40" height="40">
-  <img src="https://example.com/sql-icon.png" alt="SQL" width="40" height="40">
-  <img src="https://example.com/powerbi-icon.png" alt="Power BI" width="40" height="40">
-  <img src="https://example.com/tableau-icon.png" alt="Tableau" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png" alt="Python" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/sqlitebrowser.png" alt="SQL" width="40" height="40">
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi" width="40" height="40">
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/vscode.png" alt="Visual Basic" width="40" height="40">
 </div>
 
 ## 💪 Strengths
