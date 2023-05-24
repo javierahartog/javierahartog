@@ -8,9 +8,9 @@
 En los siguientes proyectos se ejemplifica los conocimientos y algunos de los trabajos realizados a traves de diferentes herramientas
 
 ## 🌱 Proyectos
-1. [Gestion de ventas mundiales de una multinacional](https://github.com/javierahartog/Portfolio/tree/662891f551a79f90055e189a19a37574494c4639/Ventas_Multinacional): SQL | PowerBi
-2. [Gestionando visualmente una mina](https://github.com/javierahartog/Portfolio/tree/662891f551a79f90055e189a19a37574494c4639/GVM): Python | PowerBi
-4. [Disponibilidad general en retail](https://github.com/javierahartog/Portfolio/tree/662891f551a79f90055e189a19a37574494c4639/Disponibilidad): DAX | PowerBi
+1. [Gestion de ventas mundiales de una multinacional](https://github.com/javierahartog/Portfolio/blob/662891f551a79f90055e189a19a37574494c4639/Ventas_Multinacional/Analisis.md): SQL | PowerBi
+2. [Gestionando visualmente una mina](https://github.com/javierahartog/Portfolio/blob/662891f551a79f90055e189a19a37574494c4639/GVM/Analisis.md): Python | PowerBi
+4. [Disponibilidad general en retail](https://github.com/javierahartog/Portfolio/blob/662891f551a79f90055e189a19a37574494c4639/Disponibilidad/Analisis.md): DAX | PowerBi
 
 ## ⛏ Lenguajes y Herramientas
 <div>
