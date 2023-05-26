@@ -27,7 +27,10 @@ En los siguientes proyectos se ejemplifica los conocimientos y algunos de los tr
 </div>
 
 ## 💪 Strengths
-![habilidades](https://github.com/javierahartog/javierahartog/assets/134547879/27de4f86-c70d-49a6-8d5b-cdde270738ac)
+![skills](https://github.com/javierahartog/javierahartog/assets/134547879/5829d089-e2a0-435d-b5cd-5dc1847482f9)
+
+
+
 
 ## 👩‍💻 About Me
 
