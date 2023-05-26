@@ -17,7 +17,9 @@ En los siguientes proyectos se ejemplifica los conocimientos y algunos de los tr
 2. [Gestionando visualmente una mina](https://github.com/javierahartog/Portfolio/blob/662891f551a79f90055e189a19a37574494c4639/GVM/Analisis.md): Python | PowerBi
 4. [Disponibilidad general en retail](https://github.com/javierahartog/Portfolio/blob/662891f551a79f90055e189a19a37574494c4639/Disponibilidad/Analisis.md): DAX | PowerBi
 <br>
-![resumen dashboards](https://github.com/javierahartog/javierahartog/assets/134547879/f6fc8799-88a8-4d85-b2d8-74eea0bcfd45)
+
+![resumen dashboards](https://github.com/javierahartog/javierahartog/assets/134547879/ae80de66-5171-420b-8c94-1e160f172a9e)
+
 
 <br>
 ## ⛏ Lenguajes y Herramientas
