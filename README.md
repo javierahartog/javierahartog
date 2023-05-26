@@ -7,9 +7,9 @@
 
 ## :woman_technologist: [If you want to see this information in english, please click here! ](https://github.com/javierahartog/EnglishPortfolio): Portfolio, about me and projects 
 
-
-
-
+<br>
+<br>
+<br>
 En los siguientes proyectos se ejemplifica los conocimientos y algunos de los trabajos realizados a traves de diferentes herramientas
 
 ## 🌱 Proyectos
