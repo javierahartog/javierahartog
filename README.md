@@ -16,7 +16,9 @@ En los siguientes proyectos se ejemplifica los conocimientos y algunos de los tr
 1. [Gestion de ventas mundiales de una multinacional](https://github.com/javierahartog/Portfolio/blob/662891f551a79f90055e189a19a37574494c4639/Ventas_Multinacional/Analisis.md): SQL | PowerBi
 2. [Gestionando visualmente una mina](https://github.com/javierahartog/Portfolio/blob/662891f551a79f90055e189a19a37574494c4639/GVM/Analisis.md): Python | PowerBi
 4. [Disponibilidad general en retail](https://github.com/javierahartog/Portfolio/blob/662891f551a79f90055e189a19a37574494c4639/Disponibilidad/Analisis.md): DAX | PowerBi
-
+<br>
+<br>
+<br>
 ## ⛏ Lenguajes y Herramientas
 <div>
   <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png" alt="Python" width="40" height="40">
@@ -25,13 +27,22 @@ En los siguientes proyectos se ejemplifica los conocimientos y algunos de los tr
   <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/vscode.png" alt="Visual Basic" width="40" height="40">
 </div>
-
+<br>
+<br>
+<br>
 ## 💪 Strengths
-![skills](https://github.com/javierahartog/javierahartog/assets/134547879/5829d089-e2a0-435d-b5cd-5dc1847482f9)
 
-
-
-
+![Storytelling](https://img.shields.io/badge/Storytelling-★★★★☆-brightyellow)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-★★★★★-brightyellow)
+![Research](https://img.shields.io/badge/Research-★★★☆☆-brightyellow)
+<br>
+![Attention to details](https://img.shields.io/badge/Attention_to_details-★★★☆☆-brightyellow)
+![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-★★★★★-brightyellow)
+![Team Work](https://img.shields.io/badge/Team_Work-★★★☆☆-brightyellow)
+![Numerical Skills](https://img.shields.io/badge/Numerical_Skills-★★★★☆-brightyellow)
+<br>
+<br>
+<br>
 ## 👩‍💻 About Me
 
 Mi nombre es Javiera Hartog y soy data management hace aproximadamente 5 años. Descubrí el mundo de los datos en una empresa minera de cobre, trabajando en centro de extracción y producción de los minerales. Entre al área operacional donde tenía que analizar los datos y crear proyectos de mejora en las áreas de mantencion, recursos hídricos y operación general. Luego de un tiempo encontré trabajo en una empresa de venta minorista y mayorista de materiales de construcción y artículos de hogar. Entre al área de Abastecimiento como Inventory manager pero mi trabajo fue trabajar en proyectos de datos, uniendo lo necesario de la información contenida en SAP y crear reportes que ayudaron a mejorar toda la gestión de abastecimiento, desde la compra en si hasta las entregas de los proveedores. Actualmente me encuentro en Europa aprendiendo nuevas habilidades y en busca de nuevas oportunidades para seguir desarrollándome en el área de los datos.
