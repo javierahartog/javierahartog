@@ -10,7 +10,7 @@
 <br>
 <br>
 <br>
-En los siguientes proyectos se ejemplifica los conocimientos y algunos de los trabajos realizados a traves de diferentes herramientas
+Este repositorio contiene una colección de proyectos, trabajos y ejemplos de mi trabajo como Data Analyst. Aquí podrás explorar algunos de los proyectos en los que he trabajado, así como obtener una idea de mis habilidades y experiencia en el manejo de datos, organizacion y visualizacion.
 
 ## 🌱 Proyectos
 1. [Gestion de ventas mundiales de una multinacional](https://github.com/javierahartog/Portfolio/blob/662891f551a79f90055e189a19a37574494c4639/Ventas_Multinacional/Analisis.md): SQL | PowerBi
