@@ -5,6 +5,11 @@
 
 <p align="center"><em>Mi misión como analista de datos es navegar entre la información de las compañías para organizar y enlazar información valiosa que nos entregue alertas o puntos de vistas que no teníamos a simples análisis para crear proyectos de mejora o toma de decisiones, ayudando así a los equipos de trabajo y compañías a mejorar su rendimiento.</em></p>
 
+## :woman_technologist: [If you want to see this information in english, please click here! ](https://github.com/javierahartog/EnglishPortfolio): Portfolio, about me and projects 
+
+
+
+
 En los siguientes proyectos se ejemplifica los conocimientos y algunos de los trabajos realizados a traves de diferentes herramientas
 
 ## 🌱 Proyectos
