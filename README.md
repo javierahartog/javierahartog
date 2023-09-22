@@ -13,17 +13,20 @@
 Este repositorio contiene una colección de proyectos, trabajos y ejemplos de mi trabajo como Data Analyst. Aquí podrás explorar algunos de los proyectos en los que he trabajado, así como obtener una idea de mis habilidades y experiencia en el manejo de datos, organizacion y visualizacion.
 
 ## 🌱 Proyectos
-1.- [Acercamiento asteroides API NASA ](https://github.com/javierahartog/Portafolio/blob/090231ab62b02a96187e109459b24eb92005b959/Nasa_NEOWS/Analisis.md): Python y Tableau Public
+1.-[Gestionando visualmente una mina](https://github.com/javierahartog/Portfolio/blob/662891f551a79f90055e189a19a37574494c4639/GVM/Analisis.md): Python | PowerBi
 <br>
-2.  [Gestion de ventas mundiales de una multinacional](https://github.com/javierahartog/Portfolio/blob/662891f551a79f90055e189a19a37574494c4639/Ventas_Multinacional/Analisis.md): SQL | PowerBi
+2. [Niveles de extraccion y calidad durante una Cosecha](https://github.com/javierahartog/Portafolio/blob/main/cosecha/analisis.md): PowerBi
 <br>
-3. [Gestionando visualmente una mina](https://github.com/javierahartog/Portfolio/blob/662891f551a79f90055e189a19a37574494c4639/GVM/Analisis.md): Python | PowerBi
+3. [Gestion de ventas mundiales de una multinacional](https://github.com/javierahartog/Portfolio/blob/662891f551a79f90055e189a19a37574494c4639/Ventas_Multinacional/Analisis.md): SQL | PowerBi
 <br>
 4. [Disponibilidad general en retail](https://github.com/javierahartog/Portfolio/blob/662891f551a79f90055e189a19a37574494c4639/Disponibilidad/Analisis.md): DAX | PowerBi
 <br>
+5. [Acercamiento asteroides API NASA ](https://github.com/javierahartog/Portafolio/blob/090231ab62b02a96187e109459b24eb92005b959/Nasa_NEOWS/Analisis.md): Python y Tableau Public
+<br>
 
 
-![resumen dashboards](https://github.com/javierahartog/javierahartog/assets/134547879/c93f539a-c93c-40ef-8cae-e2da02473d5a)
+![ban](https://github.com/javierahartog/javierahartog/assets/134547879/aee658a2-a050-4933-9a56-c9b220882803)
+
 
 
 <br>
