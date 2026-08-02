@@ -17,7 +17,7 @@ Mi trabajo combina dos mundos que normalmente están separados: la ejecución t�
 
 Estoy en proceso de certificación **AIGP (AI Governance Professional, IAPP)** y en transición activa hacia roles de AI Governance en Europa, donde busco aportar una mirada que une ejecución técnica real con criterio regulatorio — no solo teoría de compliance, sino experiencia concreta gestionando los riesgos y la documentación de sistemas de IA en producción.
 
-Además, dicto formación en análisis de datos y gestión del cambio para empresas a través de CENIA, colaboro en el programa **GerencIA**, y mentoreo equipos en el programa **ConectIA** de la Universidad Adolfo Ibáñez.
+Además, dicto formación en análisis de datos y gestión del cambio para empresas a través de CENIA, colaboré en el programa **GerencIA**, y mentoreo equipos en el programa **ConectIA** de la Universidad Adolfo Ibáñez.
 
 ---
 
