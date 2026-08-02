@@ -1,74 +1,61 @@
-<div align="center">
-  <h1>Data Analyst</h1>
-  <h2>¿Has calculado cuanto te ahorras en tiempo, dinero, eficiencia o producción solo por organizar la información?</h2>
-</div>
+# Javiera Hartog
 
-<p align="center"><em>Mi misión como analista de datos es navegar entre la información de las compañías para organizar y enlazar información valiosa que nos entregue alertas o puntos de vistas que no teníamos a simples análisis para crear proyectos de mejora o toma de decisiones, ayudando así a los equipos de trabajo y compañías a mejorar su rendimiento.</em></p>
+**AI Governance Specialist (en transición) | Consultora de IA en CENIA | AIGP en preparación**
 
-## :woman_technologist: [If you want to see this information in english, please click here! ](https://github.com/javierahartog/EnglishPortfolio): Portfolio, about me and projects 
+EU AI Act · NIST AI RMF · ISO 42001 · Model Risk Assessment · Data Lineage
 
-<br>
-<br>
-<br>
-Este repositorio contiene una colección de proyectos, trabajos y ejemplos de mi trabajo como Data Analyst. Aquí podrás explorar algunos de los proyectos en los que he trabajado, así como obtener una idea de mis habilidades y experiencia en el manejo de datos, organizacion y visualizacion.
+📍 Santiago, Chile → En transición hacia Europa
+🔗 [LinkedIn](https://www.linkedin.com/in/javierahartog/)
 
-## 🌱 Proyectos
-1.-[Gestionando visualmente una mina](https://github.com/javierahartog/Portfolio/blob/662891f551a79f90055e189a19a37574494c4639/GVM/Analisis.md): Python | PowerBi
-<br>
-2. [Niveles de extraccion y calidad durante una Cosecha](https://github.com/javierahartog/Portafolio/blob/main/cosecha/analisis.md): PowerBi
-<br>
-3. [Gestion de ventas mundiales de una multinacional](https://github.com/javierahartog/Portfolio/blob/662891f551a79f90055e189a19a37574494c4639/Ventas_Multinacional/Analisis.md): SQL | PowerBi
-<br>
-4. [Disponibilidad general en retail](https://github.com/javierahartog/Portfolio/blob/662891f551a79f90055e189a19a37574494c4639/Disponibilidad/Analisis.md): DAX | PowerBi
-<br>
-5. [Acercamiento asteroides API NASA ](https://github.com/javierahartog/Portafolio/blob/090231ab62b02a96187e109459b24eb92005b959/Nasa_NEOWS/Analisis.md): Python y Tableau Public
-<br>
+---
 
+## Sobre mí
 
-![ban](https://github.com/javierahartog/javierahartog/assets/134547879/aee658a2-a050-4933-9a56-c9b220882803)
+Soy Ingeniera Civil Industrial y actualmente trabajo como Consultora de IA en **CENIA** (Centro Nacional de Inteligencia Artificial, Chile), donde acompaño el ciclo de vida completo de proyectos de IA: desde la propuesta y el discovery, hasta la validación, documentación y escalamiento en producción, liderando equipos multidisciplinarios de ML, Data y DevOps.
 
+Mi trabajo combina dos mundos que normalmente están separados: la ejecución técnica de proyectos de IA (optimización, modelos de lenguaje, sistemas de agentes) y la necesidad creciente de gobernarlos de forma responsable, trazable y conforme a marcos regulatorios como el **EU AI Act**, **NIST AI RMF** e **ISO 42001**.
 
+Estoy en proceso de certificación **AIGP (AI Governance Professional, IAPP)** y en transición activa hacia roles de AI Governance en Europa, donde busco aportar una mirada que une ejecución técnica real con criterio regulatorio — no solo teoría de compliance, sino experiencia concreta gestionando los riesgos y la documentación de sistemas de IA en producción.
 
-<br>
-## ⛏ Lenguajes y Herramientas
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png" alt="Python" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/sqlitebrowser.png" alt="SQL" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/vscode.png" alt="Visual Basic" width="40" height="40">
-</div>
-<br>
-<br>
-<br>
-## 💪 Strengths
+Además, dicto formación en análisis de datos y gestión del cambio para empresas a través de CENIA, colaboro en el programa **GerencIA**, y mentoreo equipos en el programa **ConectIA** de la Universidad Adolfo Ibáñez.
 
-![Storytelling](https://img.shields.io/badge/Storytelling-★★★★☆-brightyellow)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-★★★★★-brightyellow)
-![Research](https://img.shields.io/badge/Research-★★★☆☆-brightyellow)
-<br>
-![Attention to details](https://img.shields.io/badge/Attention_to_details-★★★☆☆-brightyellow)
-![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-★★★★★-brightyellow)
-![Team Work](https://img.shields.io/badge/Team_Work-★★★☆☆-brightyellow)
-![Numerical Skills](https://img.shields.io/badge/Numerical_Skills-★★★★☆-brightyellow)
-<br>
-<br>
-<br>
-## 👩‍💻 About Me
+---
 
-Mi nombre es Javiera Hartog y soy data management hace aproximadamente 5 años. Descubrí el mundo de los datos en una empresa minera de cobre, trabajando en centro de extracción y producción de los minerales. Entre al área operacional donde tenía que analizar los datos y crear proyectos de mejora en las áreas de mantencion, recursos hídricos y operación general. Luego de un tiempo encontré trabajo en una empresa de venta minorista y mayorista de materiales de construcción y artículos de hogar. Entre al área de Abastecimiento como Inventory manager pero mi trabajo fue trabajar en proyectos de datos, uniendo lo necesario de la información contenida en SAP y crear reportes que ayudaron a mejorar toda la gestión de abastecimiento, desde la compra en si hasta las entregas de los proveedores. Actualmente me encuentro en Europa aprendiendo nuevas habilidades y en busca de nuevas oportunidades para seguir desarrollándome en el área de los datos.
+## 🎯 Portafolio de AI Governance
 
-<!--
-**javierahartog/javierahartog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Esta sección reúne proyectos que aplican frameworks de gobernanza de IA a casos reales (anonimizados) de mi trabajo en CENIA y a ejercicios propios de preparación para el AIGP.
 
-Here are some ideas to get you started:
+| Proyecto | Framework aplicado | Descripción |
+|---|---|---|
+| 🔜 Model Card — Sistema de IA (CENIA) | Model Cards (Google / Hugging Face) | Documentación de un sistema de IA real, anonimizado |
+| 🔜 AI Risk Assessment | NIST AI RMF + clasificación EU AI Act | Evaluación de riesgo de un sistema de optimización/agentes |
+| 🔜 Gap Analysis EU AI Act | EU AI Act | Análisis de brechas de cumplimiento para un caso aplicado |
+| 🔜 Framework de Data Governance | Data lineage, calidad, trazabilidad | Framework de gobernanza de datos para un proyecto de IA |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*(Portafolio en construcción — se irá actualizando progresivamente)*
+
+---
+
+## 🛠️ Stack y herramientas
+
+**Gobernanza & Compliance:** EU AI Act · NIST AI RMF · ISO 42001 · ISO 42005 · ISO 22989 · GDPR
+**Técnico:** Python · SQL · Power BI · Tableau
+**Gestión de proyectos IA:** Discovery · POC/MVP · Productivización · Escalamiento · Validación
+
+---
+
+## 📂 Proyectos anteriores (Data Analytics)
+
+Antes de mi transición hacia AI Governance, trabajé como Data Analyst en minería y retail, desarrollando proyectos de visualización y análisis para la toma de decisiones. Estos proyectos siguen disponibles como evidencia de mi base técnica en manejo de datos:
+
+- [Gestión visual de una mina](https://github.com/javierahartog/Portafolio) — Python | Power BI
+- [Niveles de extracción y calidad en cosecha](https://github.com/javierahartog/Portafolio) — Power BI
+- [Gestión de ventas mundiales de una multinacional](https://github.com/javierahartog/Portafolio) — SQL | Power BI
+- [Disponibilidad general en retail](https://github.com/javierahartog/Portafolio) — DAX | Power BI
+- [Acercamiento a asteroides — API NASA](https://github.com/javierahartog/Portafolio) — Python | Tableau
+
+---
+
+## 📫 Contacto
+
+¿Buscas conversar sobre gobernanza de IA, EU AI Act o proyectos de IA responsable? Escríbeme por [LinkedIn](https://www.linkedin.com/in/javierahartog/).
