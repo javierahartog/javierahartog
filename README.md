@@ -4,7 +4,7 @@
 
 EU AI Act · NIST AI RMF · ISO 42001 · Model Risk Assessment · Data Lineage
 
-📍 Santiago, Chile → En transición hacia Europa
+📍 Santiago, Chile
 🔗 [LinkedIn](https://www.linkedin.com/in/javierahartog/)
 
 ---
@@ -25,12 +25,12 @@ Además, dicto formación en análisis de datos y gestión del cambio para empre
 
 Esta sección reúne proyectos que aplican frameworks de gobernanza de IA a casos reales (anonimizados) de mi trabajo en CENIA y a ejercicios propios de preparación para el AIGP.
 
-| Proyecto | Framework aplicado | Descripción |
-|---|---|---|
-| 🔜 Model Card — Sistema de IA (CENIA) | Model Cards (Google / Hugging Face) | Documentación de un sistema de IA real, anonimizado |
-| 🔜 AI Risk Assessment | NIST AI RMF + clasificación EU AI Act | Evaluación de riesgo de un sistema de optimización/agentes |
-| 🔜 Gap Analysis EU AI Act | EU AI Act | Análisis de brechas de cumplimiento para un caso aplicado |
-| 🔜 Framework de Data Governance | Data lineage, calidad, trazabilidad | Framework de gobernanza de datos para un proyecto de IA |
+| Documento | Tipo | Dominio | Framework aplicado |
+|---|---|---|---|
+| [TriageAssist](https://github.com/javierahartog/ai-governance-portfolio/blob/main/ModelCard_TriageAssist.md) | Model Card | Salud pública | EU AI Act (clasificación de riesgo), documentación de supervisión humana |
+| [Prescripción médica asistida](https://github.com/javierahartog/ai-governance-portfolio/blob/main/RiskAssessment_PrismaRx.md ) | AI Risk Assessment | Salud pública | NIST AI RMF + clasificación EU AI Act |
+| [Automatización documental sector público](https://github.com/javierahartog/ai-governance-portfolio/blob/main/GapAnalysis_ExpedienteIA.md) | Gap Analysis | Sector público / recursos hídricos | EU AI Act |
+| 🔜 Optimización de despacho de recursos | Data Governance Framework | Gestión de emergencias | Data lineage, calidad, trazabilidad |
 
 *(Portafolio en construcción — se irá actualizando progresivamente)*
 
@@ -48,11 +48,10 @@ Esta sección reúne proyectos que aplican frameworks de gobernanza de IA a caso
 
 Antes de mi transición hacia AI Governance, trabajé como Data Analyst en minería y retail, desarrollando proyectos de visualización y análisis para la toma de decisiones. Estos proyectos siguen disponibles como evidencia de mi base técnica en manejo de datos:
 
-- [Gestión visual de una mina](https://github.com/javierahartog/Portafolio) — Python | Power BI
-- [Niveles de extracción y calidad en cosecha](https://github.com/javierahartog/Portafolio) — Power BI
-- [Gestión de ventas mundiales de una multinacional](https://github.com/javierahartog/Portafolio) — SQL | Power BI
-- [Disponibilidad general en retail](https://github.com/javierahartog/Portafolio) — DAX | Power BI
-- [Acercamiento a asteroides — API NASA](https://github.com/javierahartog/Portafolio) — Python | Tableau
+- [Gestión visual de una mina](https://github.com/javierahartog/Portafolio/blob/090231ab62b02a96187e109459b24eb92005b959/GVM/Analisis.md) — Python | Power BI
+- [Gestión de ventas mundiales de una multinacional](https://github.com/javierahartog/Portafolio/blob/090231ab62b02a96187e109459b24eb92005b959/Ventas_Multinacional/Analisis.md) — SQL | Power BI
+- [Disponibilidad general en retail](https://github.com/javierahartog/Portafolio/blob/090231ab62b02a96187e109459b24eb92005b959/Disponibilidad/Analisis.md) — DAX | Power BI
+
 
 ---
 
