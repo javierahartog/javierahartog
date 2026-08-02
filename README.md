@@ -38,7 +38,7 @@ Esta sección reúne proyectos que aplican frameworks de gobernanza de IA a caso
 
 ## 🛠️ Stack y herramientas
 
-**Gobernanza & Compliance:** EU AI Act · NIST AI RMF · ISO 42001 · ISO 42005 · ISO 22989 · GDPR
+**Gobernanza & Compliance:** EU AI Act · NIST AI RMF · GDPR
 **Técnico:** Python · SQL · Power BI · Tableau
 **Gestión de proyectos IA:** Discovery · POC/MVP · Productivización · Escalamiento · Validación
 
